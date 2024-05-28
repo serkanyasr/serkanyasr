@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I currently work as an Software and Automation Engineer at Coskunoz Holding.<br>🚒 I am interested in autonomous vehicles, Computer Vision, Machine Learning, Deep Learning.
+🚒 I am interested in autonomous vehicles, Computer Vision, Machine Learning, Deep Learning.
 
 
 ## 🌐 Socials:
