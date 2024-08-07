@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚒 I am interested in autonomous vehicles, Computer Vision, Machine Learning, Deep Learning.
+🚒 I am interested in  Computer Vision, Machine Learning, Deep Learning, GenAI and .NET.
 
 
 ## 🌐 Socials:
