@@ -2,8 +2,7 @@
 
 <div align="center">
 
-Hi 👋, I'm Serkan YAŞAR. I currently work at Coskunoz Holding Software Developer. I am developing myself in Artificial Intelligence, Data Engineering, Back End Developer and DevOps.
-
+Hi 👋, I'm Serkan YAŞAR. I currently work at Coskunoz Holding Software Developer. I am developing myself in Artificial Intelligence, Data Engineering, Back End Developer
 ### **Connect & Follow Me**
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasarserkan016@gmail.com)
