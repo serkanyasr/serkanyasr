@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I am Serkan YAŞAR</h1>
-
 <div align="right">
     <p>
         <a href="https://www.serkanyasar.dev" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
@@ -10,9 +8,13 @@
     </p>
 </div>
 
+<br/>
+
 <div align="center">
-I'm **Serkan YAŞAR**, I currently work at Coskunoz Holding as a Software Developer. I am developing myself in Artificial Intelligence, Data Engineering, and Back End Development.
+I'm <b>Serkan YAŞAR</b>, I currently work at Coskunoz Holding as a Software Developer. I am developing myself in Artificial Intelligence, Data Engineering, and Back End Development.
 </div>
+
+<br/>
 
 <p align="center">
 	<a href="https://skillicons.dev">
@@ -20,11 +22,13 @@ I'm **Serkan YAŞAR**, I currently work at Coskunoz Holding as a Software Develo
 	</a>
 </p>
 
-<p align="left">
-	<img 
+<br/>
+
+<p align="center">
+	<!-- <img 
 		height="160px" 
 		src="https://github-readme-stats.vercel.app/api/wakatime?username=serkanyasr&layout=compact&langs_count=8&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e"
-		alt="serkanyasr-wakatime-time" />
+		alt="serkanyasr-wakatime-time" /> -->
 	<img 
 		height="160px" 
 		src="https://github-readme-stats.vercel.app/api?username=serkanyasr&hide_border=false&show_icons=true&include_all_commits=true&number_format=long&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e"
@@ -33,15 +37,18 @@ I'm **Serkan YAŞAR**, I currently work at Coskunoz Holding as a Software Develo
 		height="160px" 
 		src="https://github-readme-streak-stats.herokuapp.com/?user=serkanyasr&theme=dark&background=232f3e&ring=ff9900&fire=ff9900&currStreakLabel=ff9900"
 		alt="serkanyasr-github-streak" />
-        
 </p>
 
+
+<br/>
+
 <div align="center">
-		<img 
+	<img 
         src="https://komarev.com/ghpvc/?username=serkanyasr&style=for-the-badge" 
         alt="Profile Views"/>
-		<a href="https://wakatime.com/@991d7c56-1f18-4491-bb20-f1da17699eff">
-		<img src="https://wakatime.com/badge/user/991d7c56-1f18-4491-bb20-f1da17699eff.svg" alt="Total time coded since Apr 11 2025" />
-		</a>
-
+	<a href="https://wakatime.com/@991d7c56-1f18-4491-bb20-f1da17699eff">
+		<img src="https://wakatime.com/badge/user/991d7c56-1f18-4491-bb20-f1da17699eff.svg?style=for-the-badge" alt="Total time coded since Apr 11 2025" />
+	</a>
 </div>
+
+<br/>
