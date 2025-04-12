@@ -25,18 +25,15 @@ I'm <b>Serkan YAŞAR</b>, I currently work at Coskunoz Holding as a Software Dev
 <br/>
 
 <p align="center">
-	<!-- <img 
+	<img 
 		height="160px" 
 		src="https://github-readme-stats.vercel.app/api/wakatime?username=serkanyasr&layout=compact&langs_count=8&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e"
-		alt="serkanyasr-wakatime-time" /> -->
+		alt="serkanyasr-wakatime-time" />
 	<img 
 		height="160px" 
 		src="https://github-readme-stats.vercel.app/api?username=serkanyasr&hide_border=false&show_icons=true&include_all_commits=true&number_format=long&title_color=ff9900&text_color=cccccc&icon_color=ff9900&bg_color=232f3e"
 		alt="serkanyasr-github-stats" />
-	<img 
-		height="160px" 
-		src="https://github-readme-streak-stats.herokuapp.com/?user=serkanyasr&theme=dark&background=232f3e&ring=ff9900&fire=ff9900&currStreakLabel=ff9900"
-		alt="serkanyasr-github-streak" />
+
 </p>
 
 
