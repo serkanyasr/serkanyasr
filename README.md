@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-I'm <b>Serkan YAŞAR</b>, I currently work at Coskunoz Holding as a Software Developer. I am developing myself in Artificial Intelligence, Data Engineering, and Back End Development.
+I'm <b>Serkan YAŞAR</b>,  I am developing myself in Artificial Intelligence, Data Engineering, and Back End Development.
 </div>
 
 <br/>
