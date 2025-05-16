@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-I'm <b>Serkan YAŞAR</b>,  I am developing myself in Artificial Intelligence, Data Engineering, and Back End Development.
+I'm <b>Serkan YAŞAR</b>,  I am developing myself in Artificial Intelligence, Data Scientist, and Back End Development.
 </div>
 
 <br/>
