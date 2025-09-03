@@ -3,7 +3,7 @@
         <a href="https://www.serkanyasar.dev" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
         <a href="https://www.serkanyasar.dev/search" target="_blank"><b>📓 Blog</b></a> |
         <a href="https://www.linkedin.com/in/serkanyasar/" target="_blank"><b>🧳 Linkedin</b></a> |
-        <a href="https://www.serkanyasar.dev/p/resume.html" target="_blank"><b>📜 Resume</b></a> |
+        <a href="https://drive.google.com/file/d/154keWVQh_yKVm6N9XbdCsaj8sOsVoyrC/view?usp=sharing" target="_blank"><b>📜 Resume</b></a> |
         <a href="https://medium.com/@serkanyasr" target="_blank"><b>📠 Medium</b></a> 
     </p>
 </div>
